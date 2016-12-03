@@ -45,6 +45,10 @@ a:hover {
     color: rgba(255, 255, 255, 0.6);
 }
 
+.logo{
+        margin-left: 11px;
+}
+
 .texto {
     margin: 30px auto 0;
     -webkit-transform: scale(1) rotate(0) translateY(0);
@@ -59,11 +63,11 @@ a:hover {
 }
 
 .texto:hover {
-    -webkit-transform: scale(1.1) rotate(1deg) translateY(12px);
-    -moz-transform: scale(1.1) rotate(1deg) translateY(12px);
-    -o-transform: scale(1.1) rotate(1deg) translateY(12px);
-    -ms-transform: scale(1.1) rotate(1deg) translateY(12px);
-    transform: scale(1.1) rotate(1deg) translateY(12px);
+    -webkit-transform: scale(1.02) rotate(1deg) translateY(12px);
+    -moz-transform: scale(1.02) rotate(1deg) translateY(12px);
+    -o-transform: scale(1.02) rotate(1deg) translateY(12px);
+    -ms-transform: scale(1.02) rotate(1deg) translateY(12px);
+    transform: scale(1.02) rotate(1deg) translateY(12px);
     -webkit-transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
     -o-transition: all 0.4s ease-in-out;
